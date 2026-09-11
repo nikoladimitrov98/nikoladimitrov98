@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="title desc">
+  <title id="title">Build ship learn loop</title>
+  <desc id="desc">Animated signal line connecting build, ship, learn, and repeat.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#2B44FF"/><stop offset=".5" stop-color="#21E6A2"/><stop offset="1" stop-color="#F04A23"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="118" rx="18" fill="#0A0D12" stroke="#FFFFFF" stroke-opacity=".10"/>
+  <path d="M90 60H1110" stroke="#232A36" stroke-width="3" stroke-linecap="round"/>
+  <path d="M90 60H1110" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-dasharray="180 840">
+    <animate attributeName="stroke-dashoffset" values="1020;0" dur="4.5s" repeatCount="indefinite"/>
+  </path>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" text-anchor="middle">
+    <g transform="translate(170 60)"><circle r="12" fill="#111621" stroke="#2B44FF"/><circle r="4" fill="#2B44FF"/><text y="35" fill="#8C97A9">BUILD</text></g>
+    <g transform="translate(455 60)"><circle r="12" fill="#111621" stroke="#21E6A2"/><circle r="4" fill="#21E6A2"/><text y="35" fill="#8C97A9">SHIP</text></g>
+    <g transform="translate(745 60)"><circle r="12" fill="#111621" stroke="#FFD23F"/><circle r="4" fill="#FFD23F"/><text y="35" fill="#8C97A9">LEARN</text></g>
+    <g transform="translate(1030 60)"><circle r="12" fill="#111621" stroke="#F04A23"/><circle r="4" fill="#F04A23"/><text y="35" fill="#8C97A9">REPEAT</text></g>
+  </g>
+</svg>

@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Nick — product engineer and builder</title>
+  <desc id="desc">Animated dark hero banner featuring Nick's product-building focus.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090B10"/>
+      <stop offset="0.55" stop-color="#0D1118"/>
+      <stop offset="1" stop-color="#090B0F"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="0.78" cy="0.18" r="0.55">
+      <stop offset="0" stop-color="#2B44FF" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#2B44FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="0.16" cy="0.90" r="0.58">
+      <stop offset="0" stop-color="#F04A23" stop-opacity=".20"/>
+      <stop offset="1" stop-color="#F04A23" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#FFFFFF" stroke-opacity=".035" stroke-width="1"/>
+    </pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="16"/></filter>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="round"><rect width="1200" height="360" rx="24"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#g1)"/>
+    <rect width="1200" height="360" fill="url(#g2)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+
+    <circle cx="1050" cy="78" r="96" fill="#2B44FF" opacity=".06" filter="url(#blur)">
+      <animate attributeName="r" values="80;115;80" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="132" cy="335" r="82" fill="#F04A23" opacity=".06" filter="url(#blur)">
+      <animate attributeName="r" values="72;102;72" dur="7s" repeatCount="indefinite"/>
+    </circle>
+
+    <g transform="translate(70 54)">
+      <rect width="52" height="52" rx="15" fill="#111620" stroke="#FFFFFF" stroke-opacity=".12"/>
+      <text x="26" y="35" text-anchor="middle" font-size="24" font-weight="800" fill="#F4F7FB" font-family="Inter,Segoe UI,Arial,sans-serif">N²</text>
+      <text x="70" y="22" font-size="13" font-weight="700" fill="#8D96A8" letter-spacing="2.5" font-family="Inter,Segoe UI,Arial,sans-serif">PRODUCT ENGINEER</text>
+      <text x="70" y="45" font-size="13" fill="#5F697A" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">// building what I wish existed</text>
+    </g>
+
+    <text x="70" y="180" font-size="48" font-weight="800" fill="#F7F8FA" letter-spacing="-1.4" font-family="Inter,Segoe UI,Arial,sans-serif">I build software people</text>
+    <text x="70" y="235" font-size="48" font-weight="800" fill="#F7F8FA" letter-spacing="-1.4" font-family="Inter,Segoe UI,Arial,sans-serif">actually want to use.</text>
+
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15">
+      <rect x="72" y="275" width="10" height="10" rx="3" fill="#21E6A2" filter="url(#glow)">
+        <animate attributeName="opacity" values="1;.45;1" dur="2s" repeatCount="indefinite"/>
+      </rect>
+      <text x="96" y="285" fill="#AAB2C0">shipping:</text>
+      <text x="186" y="285" fill="#E9EDF4">LoadSignal</text>
+      <text x="282" y="285" fill="#586174">/</text>
+      <text x="303" y="285" fill="#E9EDF4">Spot</text>
+      <text x="350" y="285" fill="#586174">/</text>
+      <text x="371" y="285" fill="#E9EDF4">Provision</text>
+    </g>
+
+    <g transform="translate(858 95)">
+      <rect width="270" height="170" rx="20" fill="#0B0F15" stroke="#FFFFFF" stroke-opacity=".11"/>
+      <circle cx="24" cy="23" r="4" fill="#F04A23"/>
+      <circle cx="40" cy="23" r="4" fill="#FFD23F"/>
+      <circle cx="56" cy="23" r="4" fill="#21E6A2"/>
+      <text x="24" y="62" font-size="12" fill="#657083" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">nick@builder ~ %</text>
+      <text x="24" y="88" font-size="13" fill="#DDE3ED" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">ship --idea friction</text>
+      <text x="24" y="118" font-size="13" fill="#21E6A2" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">✓ prototype</text>
+      <text x="24" y="142" font-size="13" fill="#2B78FF" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">✓ polish</text>
+      <text x="24" y="166" font-size="13" fill="#F04A23" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">● shipping</text>
+      <rect x="105" y="154" width="8" height="15" fill="#F04A23">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="359" rx="23.5" fill="none" stroke="#FFFFFF" stroke-opacity=".13"/>
+</svg>

@@ -11,7 +11,6 @@
 
 <div align="center">
   <a href="https://nicksquared.co"><img src="https://img.shields.io/badge/nicksquared.co-111318?style=for-the-badge&logo=safari&logoColor=white" alt="Nicksquared" /></a>
-  <a href="https://getloadsignal.com"><img src="https://img.shields.io/badge/LoadSignal-21E6A2?style=for-the-badge&logo=radar&logoColor=07110D" alt="LoadSignal" /></a>
   <a href="https://spot.coach"><img src="https://img.shields.io/badge/Spot-F04A23?style=for-the-badge&logo=weightsandbiases&logoColor=white" alt="Spot" /></a>
 </div>
 
@@ -23,12 +22,12 @@
 <tr>
 <td width="33%" valign="top">
 
-### 🚚 LoadSignal
-**Freight visibility without the friction.**
+### 🎮 Riftstep
+**Every step is a weapon.**
 
-Tracking, ETA intelligence, exception workflows and automation for freight brokers — with driver-friendly SMS/location flows.
+A portrait mobile action roguelite built in Godot. No attack button — the floor tiles you leave behind rip out of the arena and smash into enemies, so every attack costs you ground to stand on.
 
-[**getloadsignal.com →**](https://getloadsignal.com)
+**Coming to Android + iOS.**
 
 </td>
 <td width="33%" valign="top">

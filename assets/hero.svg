@@ -51,11 +51,11 @@
         <animate attributeName="opacity" values="1;.45;1" dur="2s" repeatCount="indefinite"/>
       </rect>
       <text x="96" y="285" fill="#AAB2C0">shipping:</text>
-      <text x="186" y="285" fill="#E9EDF4">LoadSignal</text>
-      <text x="282" y="285" fill="#586174">/</text>
-      <text x="303" y="285" fill="#E9EDF4">Spot</text>
-      <text x="350" y="285" fill="#586174">/</text>
-      <text x="371" y="285" fill="#E9EDF4">Provision</text>
+      <text x="186" y="285" fill="#E9EDF4">Riftstep</text>
+      <text x="264" y="285" fill="#586174">/</text>
+      <text x="285" y="285" fill="#E9EDF4">Spot</text>
+      <text x="332" y="285" fill="#586174">/</text>
+      <text x="353" y="285" fill="#E9EDF4">Provision</text>
     </g>
 
     <g transform="translate(858 95)">

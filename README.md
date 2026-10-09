@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Nick — product engineer and builder" />
+  <img src="./assets/riftstep-hero.webp" width="100%" alt="Riftstep gameplay: a hero smashing through enemies as the arena tiles break apart" />
 </div>
 
 <br/>

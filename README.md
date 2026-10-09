@@ -65,14 +65,6 @@ A tiny creature to check on once a day, ten friends and four small games keeping
 </table>
 
 <div align="center">
-  <img src="./assets/riftstep-ice.webp" width="270" alt="Riftstep gameplay: ice world" />
-  &nbsp;&nbsp;
-  <img src="./assets/riftstep-lava.webp" width="270" alt="Riftstep gameplay: lava world" />
-  <br/>
-  <sub>Riftstep, live gameplay. Every step rips a tile out of the arena.</sub>
-</div>
-
-<div align="center">
   <img src="./assets/terminal.svg" width="100%" alt="Builder terminal" />
 </div>
 

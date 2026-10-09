@@ -58,7 +58,7 @@ A tiny creature to check on once a day, ten friends and four small games keeping
 </td>
 <td width="33%" valign="top">
 
-<a href="https://play.google.com/store/apps/details?id=co.nicksquared.aliveish"><img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a> · **iOS coming soon.**
+<a href="https://play.google.com/store/apps/details?id=co.nicksquared.aliveish"><img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a> <img src="https://img.shields.io/badge/iOS-Coming_Soon-555B66?style=flat-square&logo=apple&logoColor=white" alt="iOS coming soon" />
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ A tiny creature to check on once a day, ten friends and four small games keeping
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,cs,dotnet,azure,python,docker,git,github,godot,blender,figma&perline=14" alt="Tech stack" />
   <br/>
-  <img src="./assets/powerplatform.svg" alt="Power Apps, Power Automate, Power BI, Dataverse" />
+  <img src="./assets/microsoft.svg" alt="Power Apps, Power Automate, Power BI, Dataverse, Dynamics 365, SharePoint, Teams, SQL Server" />
 </div>
 
 <br/>

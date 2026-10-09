@@ -25,15 +25,7 @@
 ### 🎮 Riftstep
 **Every step is a weapon.**
 
-A portrait mobile action roguelite built in Godot. No attack button — the floor tiles you leave behind rip out of the arena and smash into enemies, so every attack costs you ground to stand on.
-
-</td>
-<td width="33%" valign="top">
-
-### 🏋️ Spot
-**Fitness coaching with a pulse.**
-
-A coach + client platform built around workouts, progress, video, character progression and a more engaging training experience.
+A mobile action roguelite built in Godot. No attack button: the tiles you leave behind rip out and smash into enemies.
 
 </td>
 <td width="33%" valign="top">
@@ -42,6 +34,14 @@ A coach + client platform built around workouts, progress, video, character prog
 **Don't let it die.**
 
 A tiny creature to check on once a day, ten friends and four small games keeping Sprout company.
+
+</td>
+<td width="33%" valign="top">
+
+### 🏋️ Spot
+**Fitness coaching with a pulse.**
+
+A coach + client platform built around workouts, progress, video, character progression and a more engaging training experience.
 
 </td>
 </tr>
@@ -53,12 +53,12 @@ A tiny creature to check on once a day, ten friends and four small games keeping
 </td>
 <td width="33%" valign="top">
 
-[**spot.coach →**](https://spot.coach)
+<a href="https://play.google.com/store/apps/details?id=co.nicksquared.aliveish"><img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a> <img src="https://img.shields.io/badge/iOS-Coming_Soon-555B66?style=flat-square&logo=apple&logoColor=white" alt="iOS coming soon" />
 
 </td>
 <td width="33%" valign="top">
 
-<a href="https://play.google.com/store/apps/details?id=co.nicksquared.aliveish"><img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a> <img src="https://img.shields.io/badge/iOS-Coming_Soon-555B66?style=flat-square&logo=apple&logoColor=white" alt="iOS coming soon" />
+[**spot.coach →**](https://spot.coach)
 
 </td>
 </tr>

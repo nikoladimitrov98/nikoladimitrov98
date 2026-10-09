@@ -27,8 +27,6 @@
 
 A portrait mobile action roguelite built in Godot. No attack button — the floor tiles you leave behind rip out of the arena and smash into enemies, so every attack costs you ground to stand on.
 
-<a href="https://apps.apple.com/us/app/riftstep-step-to-survive/id6813199036"><img src="https://img.shields.io/badge/App_Store-111318?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a> <a href="https://play.google.com/store/apps/details?id=co.nicksquared.riftstep"><img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a>
-
 </td>
 <td width="33%" valign="top">
 
@@ -37,8 +35,6 @@ A portrait mobile action roguelite built in Godot. No attack button — the floo
 
 A coach + client platform built around workouts, progress, video, character progression and a more engaging training experience.
 
-[**spot.coach →**](https://spot.coach)
-
 </td>
 <td width="33%" valign="top">
 
@@ -46,6 +42,21 @@ A coach + client platform built around workouts, progress, video, character prog
 **Don't let it die.**
 
 A tiny creature to check on once a day, ten friends and four small games keeping Sprout company.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+<a href="https://apps.apple.com/us/app/riftstep-step-to-survive/id6813199036"><img src="https://img.shields.io/badge/App_Store-111318?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a> <a href="https://play.google.com/store/apps/details?id=co.nicksquared.riftstep"><img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a>
+
+</td>
+<td width="33%" valign="top">
+
+[**spot.coach →**](https://spot.coach)
+
+</td>
+<td width="33%" valign="top">
 
 <a href="https://play.google.com/store/apps/details?id=co.nicksquared.aliveish"><img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a> · **iOS coming soon.**
 
@@ -61,6 +72,8 @@ A tiny creature to check on once a day, ten friends and four small games keeping
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,cs,dotnet,azure,python,docker,git,github,godot,blender,figma&perline=14" alt="Tech stack" />
+  <br/>
+  <img src="./assets/powerplatform.svg" alt="Power Apps, Power Automate, Power BI, Dataverse" />
 </div>
 
 <br/>

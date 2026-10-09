@@ -65,6 +65,14 @@ A tiny creature to check on once a day, ten friends and four small games keeping
 </table>
 
 <div align="center">
+  <img src="./assets/riftstep-ice.webp" width="270" alt="Riftstep gameplay: ice world" />
+  &nbsp;&nbsp;
+  <img src="./assets/riftstep-lava.webp" width="270" alt="Riftstep gameplay: lava world" />
+  <br/>
+  <sub>Riftstep, live gameplay. Every step rips a tile out of the arena.</sub>
+</div>
+
+<div align="center">
   <img src="./assets/terminal.svg" width="100%" alt="Builder terminal" />
 </div>
 
@@ -72,8 +80,10 @@ A tiny creature to check on once a day, ten friends and four small games keeping
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,cs,dotnet,azure,python,docker,git,github,godot,blender,figma&perline=14" alt="Tech stack" />
-  <br/>
-  <img src="./assets/microsoft.svg" alt="Power Apps, Power Automate, Power BI, Dataverse, Dynamics 365, SharePoint, Teams, SQL Server" />
+</div>
+
+<div align="center">
+  <img src="./assets/skills-flow.svg" width="100%" alt="Skill flow: data, logic, experience" />
 </div>
 
 <br/>

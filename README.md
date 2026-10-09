@@ -27,7 +27,7 @@
 
 A portrait mobile action roguelite built in Godot. No attack button — the floor tiles you leave behind rip out of the arena and smash into enemies, so every attack costs you ground to stand on.
 
-**Coming to Android + iOS.**
+[**App Store →**](https://apps.apple.com/us/app/riftstep-step-to-survive/id6813199036) · [**Google Play →**](https://play.google.com/store/apps/details?id=co.nicksquared.riftstep)
 
 </td>
 <td width="33%" valign="top">
@@ -42,12 +42,12 @@ A coach + client platform built around workouts, progress, video, character prog
 </td>
 <td width="33%" valign="top">
 
-### 🥬 Provision
-**Planning + inventory for real kitchens.**
+### 🌱 Aliveish
+**Don't let it die.**
 
-A premium provisioning system for pantry inventory, expiry, meal planning, shopping and intelligent restocking.
+A tiny creature to check on once a day, ten friends and four small games keeping Sprout company.
 
-**Currently in the lab.**
+[**Google Play →**](https://play.google.com/store/apps/details?id=co.nicksquared.aliveish) · **iOS coming soon.**
 
 </td>
 </tr>

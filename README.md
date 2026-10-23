@@ -53,7 +53,7 @@ A coach + client platform built around workouts, progress, video, character prog
 </td>
 <td width="33%" valign="top">
 
-<a href="https://play.google.com/store/apps/details?id=co.nicksquared.aliveish"><img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a> <img src="https://img.shields.io/badge/iOS-Coming_Soon-555B66?style=flat-square&logo=apple&logoColor=white" alt="iOS coming soon" />
+<a href="https://apps.apple.com/us/app/alive-ish/id6816537375"><img src="https://img.shields.io/badge/App_Store-111318?style=flat-square&logo=apple&logoColor=white" alt="App Store" /></a> <a href="https://play.google.com/store/apps/details?id=co.nicksquared.aliveish"><img src="https://img.shields.io/badge/Google_Play-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a>
 
 </td>
 <td width="33%" valign="top">

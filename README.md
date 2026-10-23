@@ -71,7 +71,24 @@ A coach + client platform built around workouts, progress, video, character prog
 ## The stack I reach for
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,cs,dotnet,azure,python,docker,git,github,godot,blender,figma&perline=14" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,cs,dotnet,azure,python,pytorch,docker,git,github,vercel,godot,unity,blender,figma&perline=17" alt="Tech stack" />
+</div>
+
+### AI, agents + local generation
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Custom_Claude_Skills-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Custom Claude Skills" />
+  <img src="https://img.shields.io/badge/MCP_Servers-111318?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP Servers" />
+  <br/>
+  <img src="https://img.shields.io/badge/ComfyUI-2B2D42?style=for-the-badge" alt="ComfyUI" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/RunPod-673AB7?style=for-the-badge" alt="RunPod" />
+  <br/>
+  <img src="https://img.shields.io/badge/Meshy_3D-111318?style=for-the-badge" alt="Meshy 3D" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" />
 </div>
 
 <div align="center">
@@ -83,10 +100,11 @@ A coach + client platform built around workouts, progress, video, character prog
 ```text
 PRODUCT        ENGINEERING        AI / AUTOMATION        3D / INTERACTIVE
 ─────────────────────────────────────────────────────────────────────────
-SaaS           TypeScript         Agents + tools          Godot
-Mobile         React / Next.js    LLM workflows           Blender
-UX systems     C# / .NET          Computer vision         3D pipelines
-B2B workflows  Dataverse / Azure  Automation              Motion / video
+SaaS           TypeScript         Agents + tools          Godot / Unity
+Mobile         React / Next.js    Custom Claude skills    Blender
+UX systems     C# / .NET          MCP servers             3D pipelines
+B2B workflows  Dataverse / Azure  Local gen (ComfyUI)     Motion / video
+               Python             CUDA / GPU pipelines    DaVinci Resolve
 ```
 
 ## How I like to build

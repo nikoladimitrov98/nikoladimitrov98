@@ -1,8 +1,3 @@
-<!--
-  Premium GitHub profile README for Nick.
-  Drop this README.md + /assets into the special repo whose name matches your GitHub username.
--->
-
 <div align="center">
   <img src="./assets/riftstep-hero-v2.webp" width="100%" alt="Riftstep gameplay: a hero smashing through enemies as the arena tiles break apart" />
 </div>
